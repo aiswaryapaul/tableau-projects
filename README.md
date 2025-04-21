@@ -36,8 +36,11 @@ Seasonality, distribution, and outlier detection
 
 Any domain-specific insights (e.g., customer behavior, revenue patterns, etc.)
 
-📌 How to Use
-Clone or download the repository
+## 📁 Download Project Files
+
+- [📊 Download Excel Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+- [📋 Download Tableau Workbook](https://public.tableau.com/app/profile/aiswarya.paul/viz/airbnbfullproject_17452211957970/Dashboard1?publish=yes)
+
 
 Open the Tableau workbook (.twbx) using Tableau
 
